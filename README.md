@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SViralSoni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SViralSoni)
 
+[![Twitter Follow](https://img.shields.io/badge/follow/vsoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](hhttps://www.instagram.com/_vsoni_public/)
+
 ## I'm a Student, Learner, Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
