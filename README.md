@@ -1,4 +1,4 @@
-### Hi there, I'm Viral - aka [V-Soni][website] 👋
+### Hi there, I'm Viral - aka [V-Soni] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SViralSoni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SViralSoni)
 
